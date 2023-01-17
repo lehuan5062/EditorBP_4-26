@@ -1,6 +1,7 @@
-Update batch rename and material instance creation from [EditorBP_4-24](https://github.com/lehuan5062/EditorBP_4-24) to better methods:
-- Both now use right click like in [EditorBP_4-27](https://github.com/lehuan5062/EditorBP_4-27).
-- Material instance creation sample now prompt an UI to select parent material and path. Automatically assign texture.
+Some Unreal Engine editor blueprint samples.
+
+Right click batch rename.
+Create material instance from static mesh: https://youtu.be/fKazmkVcdHg
 
 Show developers content and show other developers to see the blueprint.
 
